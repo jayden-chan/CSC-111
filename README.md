@@ -1,7 +1,7 @@
 # CSC-111
 Collection of all my assignments from CSC-111 (Fall 2017)
 
-# Topics
+## Topics
 * Introduction to computer programming
 * Manual execution, testing and debugging
 * Variables and data types
